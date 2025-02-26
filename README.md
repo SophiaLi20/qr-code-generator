@@ -1,2 +1,8 @@
-# qr-code-generator
-It is a python code where we can generate a qr by giving the information about it..Basically it is a customizable qr generator
+# QR Code Generator  
+
+A simple Python-based QR code generator.  
+
+## Features  
+- Generate QR codes from text or URLs  
+- Save QR codes as images  
+- Customizable size and colors
